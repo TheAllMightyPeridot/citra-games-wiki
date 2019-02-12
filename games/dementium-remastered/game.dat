@@ -1,0 +1,10 @@
+title = "Dementium Remastered"
+description = "Dementium Remastered tells the tale of a man who awakens to find himself alone in a mysterious, derelict hospital that is frozen in time. Confronted by the deadly, grotesque surgical experiments that wander the halls, a series of challenging puzzles, and a cast of peculiar characters, he must face his deepest fears, unlock the mysteries of the hospital, and escape with his life.\n\nPublisher: Renegade Kid\n\nGenre: Horror"
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "0004000000161B00"
+region = "usa"
+release_date = "2015-12-03"
